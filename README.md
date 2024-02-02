@@ -5,13 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriyasingh2" alt="supriyasingh2" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Node.js**
+
+- 👯 I’m looking to collaborate on **Node.js**
+
+- 👨‍💻 All of my projects are available at [https://supriyasingh2.github.io/](https://supriyasingh2.github.io/)
+
+- 📫 How to reach me **supriyasinghgaur8@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SmzbJRGtW2sHRmrSJ1DPHv1iNU4LOPsG/view?usp=sharing](https://drive.google.com/file/d/1SmzbJRGtW2sHRmrSJ1DPHv1iNU4LOPsG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supriyasinghgaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriyasinghgaur" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/supriya_0212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/supriya_0212" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/it_1901640130036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/it_1901640130036" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/supriyasingh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supriyasingh02" height="30" width="40" /></a>
 </p>
 
