@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Node.js**
 
-- 👨‍💻 All of my projects are available at https://github.com/Supriyasingh2
+- 👨‍💻 All of my projects are available at https://supriyasingh2.github.io
 
 - 📫 How to reach me **supriyasinghgaur8@gmail.com**
 
