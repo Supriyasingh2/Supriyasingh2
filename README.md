@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyasingh2&label=Profile%20views&color=0e75b6&style=flat" alt="supriyasingh2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriyasingh2" alt="supriyasingh2" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Node.js**
 
-- 👨‍💻 All of my projects are available at <a href="https://supriyasingh2.github.io/">Porfolio</a>
+- 👨‍💻 All of my projects are available at [https://supriyasingh2.github.io/](https://supriyasingh2.github.io/)
 
 - 📫 How to reach me **supriyasinghgaur8@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SmzbJRGtW2sHRmrSJ1DPHv1iNU4LOPsG/view?usp=sharing">resume</a>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SmzbJRGtW2sHRmrSJ1DPHv1iNU4LOPsG/view?usp=sharing](https://drive.google.com/file/d/1SmzbJRGtW2sHRmrSJ1DPHv1iNU4LOPsG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
