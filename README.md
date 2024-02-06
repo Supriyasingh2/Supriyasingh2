@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriya Singh Gaur</h1>
 <h3 align="center">A passionate Backend Developer(Node.js)</h3>
 <div align="center">
-<img src="git gif.gif"  border-radius="50%" height="200px" width="300px">
+<img src="git gif.gif"  border-radius="50%" height="200px" width="400px">
 </div>
 <br>
 <p align="left" padding="15px"> <img src="https://komarev.com/ghpvc/?username=supriyasingh2&label=Profile%20views&color=0e75b6&style=flat" alt="supriyasingh2" /> </p>
