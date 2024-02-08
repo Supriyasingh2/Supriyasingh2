@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriyasingh2&show_icons=true&locale=en" alt="supriyasingh2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyasingh2&" alt="supriyasingh2" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriyasingh2" alt="supriyasingh2" /></a> </p>
