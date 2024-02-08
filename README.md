@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Node.js**
 
-- 👨‍💻 All of my projects are available at <a href="https://supriyasingh2.github.io">Porfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://supriyasingh2.github.io/">Porfolio</a>
 
 - 📫 How to reach me **supriyasinghgaur8@gmail.com**
 
