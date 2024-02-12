@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Node.js**
-
 - 👯 I’m looking to collaborate on **Node.js**
 
 - 👨‍💻 All of my projects are available at <a href="https://supriyasingh2.github.io/">Porfolio</a>
 
-- 📫 How to reach me **supriyasinghgaur8@gmail.com**
+- 📫 How to reach me <a href="supriyasinghgaur8@gmail.com">email</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SmzbJRGtW2sHRmrSJ1DPHv1iNU4LOPsG/view?usp=sharing">resume</a>
 
